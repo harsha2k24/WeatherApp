@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Harsha on 11/06/24.
+  
+*/
+"Search by City or state to get weather." = "Search by City or state to get weather.";
+"No results found." = "No results found.";
+"Error:" = "Error:";
+"Weather" = "Weather";
+"WeatherData.json" = "WeatherData.json";
+"Latitude:" = "Latitude:";
+"Longitude:" = "Longitude:";
+"Temperature:" = "Temperature:";
+"Wind Speed:" = "Wind Speed:";
+"Search Placeholder" = "City name, state code and country code";
